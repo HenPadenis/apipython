@@ -1,4 +1,4 @@
-const apiUrl = 'http://127.0.0.1:5000/dados';
+const apiUrl = 'http://192.168.0.125:5000/dados';
 
     
 
